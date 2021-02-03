@@ -1,11 +1,10 @@
-# Flipper Module
-
 <p align="center">
 <a href="https://packagist.org/packages/flipper/module"><img src="https://img.shields.io/packagist/dt/flipper/module" alt="Total Downloads"></a>
 <a href="https://packagist.org/packages/flipper/module"><img src="https://img.shields.io/packagist/v/flipper/module" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/flipper/module"><img src="https://img.shields.io/packagist/l/flipper/module" alt="License"></a>
 </p>
 
+# Flipper Module
 Building Laravel framework with Microservice architecture.
 
 ## Install
