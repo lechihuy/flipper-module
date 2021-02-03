@@ -1,0 +1,30 @@
+{
+    "name": "flipper/module",
+    "description": "Microservice architecture for Laravel framework",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Lê Chí Huy",
+            "email": "lechihuy1062001@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Flipper\\Module\\": "src"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Flipper\\Module\\PackageServiceProvider"
+            ]
+        }
+    },
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/lechihuy/flipper-module"
+        }
+    ]
+}
